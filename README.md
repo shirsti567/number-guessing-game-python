@@ -1,2 +1,15 @@
-# number-guessing-game-python
-A Python game where the user tries to guess a randomly generated number between 1 and 100. The program provides hints and tracks the number of attempts.
+# Number Guessing Game
+
+A simple Python game that generates a random number between 1 and 100.
+
+## Features
+- Random number generation
+- Unlimited guessing attempts
+- "Too High" and "Too Low" hints
+- Attempt counter
+
+## Technologies Used
+- Python
+- random module
+
+Created By Shirsti Biswas 
